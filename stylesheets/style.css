@@ -259,12 +259,12 @@ section.post {
     padding: 0 80px; }
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px; }
-  section.post h1 {
+  section.post h2 {
     text-transform: uppercase;
     text-align: center;
     line-height: 1.5em;
     margin-bottom: 60px; }
-    section.post h1 .date {
+    section.post h2 .date {
       color: #d0d0d0;
       font-size: 10px; }
   section.post iframe {
