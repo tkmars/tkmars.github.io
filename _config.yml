@@ -10,7 +10,7 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://tkmars.github.io/aboutme/
     external:     true
   - name:         Email
     url:          mailto:hello@muan.co
