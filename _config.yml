@@ -8,7 +8,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         Work
-    url:          /work
+    url:          /
   - name:         Resume
     url:          /TMars-WritingResume.pdf
   - name:         Contact

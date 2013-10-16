@@ -1,35 +1,30 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,300italic,400italic);
 @import url(http://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 
-strong, b {
-  font-weight: 600; }
-
-h1, h2, h3, h4, h5, h6      { font-family: 'Amatic SC', serif;
-                              font-weight: 400; color: #222; }
-h1 a, h2 a, h3 a, h4 a,
-h5 a, h6 a                  { text-decoration: none; }
-h1 a:hover, h2 a:hover,
-h3 a:hover, h4 a:hover      { text-decoration: underline; }
-h1.title                    { width: 560px; }
-h1, h2                      { margin: 10px 0 25px 0; }
-h1                          { font-size: 48px; line-height: 54px; }
-h2                          { font-size: 38px; line-height: 42px; }
-h3                          { font-size: 32px; line-height: 34px; }
+h1, h2, h3, h4, h5, strong, b {
+  font-weight: 300; }
 
 html, body {
   height: 100%; }
 
 body {
-  /*background: #f9f9f9;*/
+  background: #f9f9f9;
   color: #303030;
-  /*font-family: 'Open Sans', sans-serif;*/
-  font: 17px/25px 'Roboto', sans-serif;
-  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 19px;
   padding: 0;
   margin: 0; }
   body, body * {
     -webkit-font-smoothing: antialiased; }
+
+.page-header h1 {
+  font-family: 'Amatic SC', serif;
+  font-weight: 700; color: #222;
+  font-size: 56px;
+  margin-bottom: 20px;
+}
 
 img {
   border: none; }
@@ -101,8 +96,7 @@ footer {
   padding-bottom: 30px;
   text-align: center; }
   footer * {
-    font-weight: 400;
-    /*color: #797979;*/ }
+    color: #797979; }
 
 #container {
   *zoom: 1;
@@ -163,9 +157,9 @@ footer {
 
 a, .as-link {
   text-decoration: none;
+  /*font-size: 1.3em;*/
   /*color: #269;*/
-  color: black;
-  font-weight: 400;
+  color: #000;
   line-height: 1.4em;
   display: inline-block;
   vertical-align: baseline;
@@ -177,13 +171,10 @@ a, .as-link {
   -ms-transition: color 0.3s;
   -o-transition: color 0.3s;
   transition: color 0.3s; }
-  a:hover { color: #CC0033; }
   a.main, a:hover, .as-link.main, .as-link:hover {
-    /*color: #1d5884;
-    color: black;
-    font-weight: 400;*/
-    text-decoration: underline;
-    /*background-image: url(/images/line.png);*/
+    /*color: #1d5884;*/
+    color: #000;
+    background-image: url(/images/line.png);
     background-repeat: repeat-x;
     background-position: left bottom; }
   a.big-button, .as-link.big-button {
@@ -256,7 +247,7 @@ ul.posts .datetime {
   text-transform: uppercase;
   float: right;
   color: #999;
-  font-size: 10px;
+  font-size: 11px;
   text-align: right; }
 
 section.post {
@@ -270,12 +261,12 @@ section.post {
     padding: 0 80px; }
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px; }
-  section.post h2 {
+  section.post h1 {
     text-transform: uppercase;
     text-align: center;
     line-height: 1.5em;
     margin-bottom: 60px; }
-    section.post h2 .date {
+    section.post h1 .date {
       color: #d0d0d0;
       font-size: 10px; }
   section.post iframe {
@@ -288,8 +279,8 @@ section.post {
     border-top-right-radius: 3px; }
 
 section.post, section > p {
-  /*font-size: 14px;
-  line-height: 1.6em; }*/
+  font-size: 14px;
+  line-height: 1.6em; }
   section.post *, section > p * {
     max-width: 100%; }
   section.post em strong, section > p em strong {

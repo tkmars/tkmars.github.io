@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Scribble, the Jekyll theme
-date: 2013-05-06 16:27:31
+title: Smartslips
+date: 2012-12-15 16:27:31
 disqus: y
 ---
 
