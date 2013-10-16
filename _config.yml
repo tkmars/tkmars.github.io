@@ -7,10 +7,10 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         About
-    url:          /about
   - name:         Work
     url:          /work
+  - name:         Resume
+    url:          /TMars-WritingResume.pdf
   - name:         Contact
     url:          /contact
 pygments:         true
