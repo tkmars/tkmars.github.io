@@ -56,6 +56,35 @@ When writing a post, there are 3 options you can add to the header.
 
 ---
 
+The files on production are here: https://github.com/tkmars/tkmars.github.io/tree/master
+
+Your project files are here: /Users/taylor/dev/tkmars.github.io/
+Posts directory: ./_posts
+Images directory: ./_images
+
+All posts are written in [markdown](http://daringfireball.net/projects/markdown/) format.
+
+### Creating a new post
+
+1. Create a new file in `Posts directory` named yyyy-mm-dd-title.md.
+1. Follow steps in “Updating an existing post”.
+
+### Updating an existing post
+
+1. Edit your file.
+1. Commit your changes:
+    1. Open GitHub program. Go to `Changes` tab, which should contain your new file.
+    1. Fill in `Commit summary` field and click Commit.
+1. Sync your changes:
+    1. Click `Sync branch` button.
+
+### Deleting an existing post
+
+1. Delete the file on your computer.
+1. Follow steps in “Updating an existing post” (w/o the edit step of course).
+
+---
+
 ### The end
 
 Like it? [Tell me](http://twitter.com/muanchiou).<br/>
