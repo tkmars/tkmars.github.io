@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Smartslips
-date:  
+title: Smartslips 
 ---
 
 ![My helpful screenshot]({{ site.url }}/images/Smartslips.png)
