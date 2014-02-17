@@ -8,5 +8,4 @@ Welcome to the professional site of Taylor Marsden - Creative Content Writer. Ta
 
 Like what you see? I love working on new and interesting projects, check out how to contact me and we'll talk shop.
 
-Email me: <a href="mailto:thetaylormarsden@gmail.com">thetaylormarsden@gmail.com</a>.
-Tweet me: [@tkmars](http://twitter.com/tkmars)
+<a href="mailto:thetaylormarsden@gmail.com">thetaylormarsden@gmail.com</a> or [@tkmars](http://twitter.com/tkmars)
