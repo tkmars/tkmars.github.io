@@ -4,7 +4,7 @@ title: Canadian Breast Cancer Foundation
 date: 2013-10-01
 ---
 
-![My helpful screenshot]({{ site.url }}/images/BreastCancerFdation.jpeg)
+![My helpful screenshot]({{ site.url }}/images/CanadianBreastCancer.png)
 
 *TeamBuy.ca wanted to encourage their audience to give back during Breast Cancer Awareness month in October 2013. I partnered with the CBCF and used their stats to educate buyers on the importance of breast cancer research.*
 
