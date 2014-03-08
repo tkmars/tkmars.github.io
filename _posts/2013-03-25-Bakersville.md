@@ -4,7 +4,7 @@ title: Bakersville
 date: 2013-03-25
 ---
 
-![My helpful screenshot]({{ site.url }}/images/Bakersville.png)
+![My helpful screenshot]({{ site.url }}/images/bakersville.jpg)
 
 *A moderately successful bakery in Mississauga looking to increase sales - who doesn't love a good cupcake?*
 

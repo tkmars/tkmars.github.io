@@ -4,7 +4,7 @@ title: CHANGE Lingerie
 date: 2012-12-20
 ---
 
-![My helpful screenshot]({{ site.url }}/images/ChangeLingerie.png)
+![My helpful screenshot]({{ site.url }}/images/change lingerie.jpg)
 
 *Client wanted to introduce their brand to the TeamBuy audience by offering a generous credit towards their sexy lingerie. I created an ad that aimed to boost women's self-esteem which resulted in a huge volume of buys.*
 
