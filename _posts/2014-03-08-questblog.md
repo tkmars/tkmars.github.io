@@ -7,6 +7,8 @@ date: 2014-03-08
 ![My helpful screenshot]({{ site.url }}/images/QuestChat.png)
 
 
+*QuestChat Blog*
+
 > No matter how it ends, there’s almost nothing worse than getting your heart broken. But the good news? Those wretched feelings don’t last forever! One day you’re going to stop creeping his Facebook, showering daily will make it back into your routine, and getting over it won’t be a phrase you just say, you’ll finally be able to do it. What you need is some break up advice from your BFF.
 
 > Here’s a little dating advice to help you get your life back to normal:
