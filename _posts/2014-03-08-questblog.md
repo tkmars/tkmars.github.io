@@ -7,7 +7,9 @@ date: 2014-03-08
 ![My helpful screenshot]({{ site.url }}/images/QuestChat.png)
 
 
-> *QuestChat Blog* 
+*QuestChat Blog* 
+
+> Break Up Advice Your Best Friend Would Give You
 
 > No matter how it ends, there’s almost nothing worse than getting your heart broken. But the good news? Those wretched feelings don’t last forever! One day you’re going to stop creeping his Facebook, showering daily will make it back into your routine, and getting over it won’t be a phrase you just say, you’ll finally be able to do it. What you need is some break up advice from your BFF.
 
