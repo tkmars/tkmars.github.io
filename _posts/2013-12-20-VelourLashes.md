@@ -15,4 +15,3 @@ summary: This cosmetic company did a complete redesign of their site to better r
   <img alt="Velour Lashes 2" src="{{ site.url }}/images/Velourpage2.png"/>
 </a>
 
-<a href="https://www.velourlashes.com/">Visit the site</a>
