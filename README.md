@@ -2,8 +2,6 @@
 
 *i have a competition in me. i want no one else to succeed.
 
-## TODO
-
 ## This is the data for my homepage
 
 It is automatically transformed by [Jekyll](http://jekyllrb.com), a static site generator. The templates and styles were provided by [Poole](http://getpoole.com/), Jekyll's butler.
