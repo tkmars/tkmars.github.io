@@ -1,0 +1,16 @@
+<div class="header">
+  <a href="{{ site.url }}"><h1 class="header-title">Taylor Marsden</h1></a>
+</div>
+
+<div class="header">
+  <p class="lead header-lead">
+    {% for link in site.links %}
+      {% if forloop.index != 1 %} · {% endif %}
+      <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}">{{ link.name }}</a>
+  	{% endfor %}
+  	 ·
+  	<a href="{{ site.url }}/docs/TMars-WritingResume.pdf">Resume</a>
+  </p>
+</div>
+
+<hr>

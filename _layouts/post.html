@@ -1,32 +1,37 @@
-<html>
-  <head>
-    <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
-    {% include head.html %}
-  </head>
-  <body>
-    {% include header.html %}
-    <div id='container'>
-      {% include links.html %}
-      {% include pages.html %}
-      <div class="content">
-        <section class='post'>
-          <h1 class="upcase">
-            <div class='date'>{{ page.date | date_to_string }}</div>
-            {{ page.title }}
-          </h1>
-          {{ content }}
-        </section>
-      </div>
-      {% if page.share == 'y' %}
-        {% include share.html %}
-      {% endif %}
+---
+layout: default
+---
 
-      {% if page.disqus == 'y' %}
-        {% include disqus.html %}
-      {% endif %}
-      {% include links.html %}
+<section>
+  <div class="post">
+    <h2 class="post-title">{{ page.title }}</h2>
+    {{ content }}
+  </div>
+<section>
+
+<div class="related">
+  <h2>Related Projects</h2>
+  <section>
+    <div class="columns">
+      {% for post in site.related_posts %}
+        {% assign match = false %}
+        {% for category in post.categories %}
+          {% if page.categories contains category %}
+            {% assign match = true %}
+          {% endif %}
+        {% endfor %}
+        {% if match %}
+        <figure>
+          <a href="{{ post.url }}">
+            <img alt="thumbnail" src="{{ site.url }}/images/{{post.thumbnail}}"/>
+          </a>
+          <figcaption>
+            <p><strong>{{ post.title }}</strong></p>
+            <p><small>{{ post.summary }}</small></p>
+          </figcaption>
+        </figure>
+        {% endif %}
+      {% endfor %}
     </div>
-    {% include footer.html %}
-  </body>
-</html>
+  </section>
+</div>

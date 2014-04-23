@@ -1,0 +1,131 @@
+/*
+ * taylormarsden.com
+ * Base, component styles that extend/override poole styles.
+ */
+
+/*
+ * Contents
+ *
+ * Base
+ * Component
+ */
+
+/*
+ * Base styles
+ *
+ * Styles HTML elements.
+ */
+
+html {
+  /*font-family: "PT Serif", Georgia, "Times New Roman", serif;*/
+  font-family: 'Lato', Helvetica, Arial, Verdana, sans-serif;
+}
+body {
+  padding: 2rem 1rem;
+  color: #000;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+a {
+  color: #000;
+}
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  color: #000;
+}
+
+.btn {
+  display: inline-block;
+  padding: .25rem 1rem;
+  /*font-family: "PT Sans", sans-serif;*/
+  font-family: 'Lato', Helvetica, Arial, Verdana, sans-serif;
+  color: #32343c;
+  border: .1rem solid #32343c;
+  border-radius: .1rem;
+}
+.btn:hover,
+.btn:focus {
+  color: #26282d;
+  background-color: #3eae5f;
+  border-color: #3eae5f;
+}
+
+hr {
+  max-width: 6rem;
+  margin: 3rem auto;
+  border-top-color: #32343c;
+  border-bottom: 0;
+}
+
+img {
+  border-radius: 0;
+}
+
+/* Vertical rythym  */
+section {
+  margin-top: 1.5rem;
+}
+
+/*
+ * Component styles
+ *
+ * For Reusable HTML/CSS components.
+ */
+
+.header {
+}
+.header-title {
+  display: inline-block;
+  padding: .5rem 1.5rem;
+  margin-bottom: 1rem;
+  border: .2rem solid #32343c;
+  border-radius: .1rem;
+
+  font-family: 'Amatic SC', serif;
+  font-weight: 700;
+  font-size: 3rem;
+}
+.header-lead {
+  margin-bottom: 0;
+}
+.header-lead a {
+  font-family: 'Amatic SC', serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.page-title {
+  font-family: 'Amatic SC', serif;
+}
+
+.themes {
+  overflow: hidden; /* clearfix */
+  text-align: center;
+  padding: 0 2rem;
+}
+.theme {
+  float: left;
+  width: 50%;
+  padding: 0 1rem;
+}
+.theme h3 {
+  margin-top: 1rem;
+}
+
+
+/* Perfect circle */
+.img-circle {
+  margin: 0;
+  border-radius: 50%;
+  /*border: 2px solid #fff;
+
+  -moz-box-bshadow: 0 1px 1px rgba(0,0,0,0.3);
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+  -ms-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+  box-shadow: 0 1px 1px rgba(0,0,0,0.3);*/
+}

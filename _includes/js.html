@@ -1,0 +1,21 @@
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<!-- Add fancyBox -->
+<script type="text/javascript" src="/public/js/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+<script type="text/javascript" src="/public/js/fancybox/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".zoom").fancybox({
+      padding : 0,
+      helpers : {
+        overlay : {
+          css : {
+            'background' : 'rgba(0,0,0,.85)'
+          }
+        }
+    	},
+    	fitToView: false
+    });
+	});
+</script>

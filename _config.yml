@@ -1,20 +1,35 @@
-title:            Taylor Marsden
-description:      My homepage.
-url:              # Leave blank.
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Taylor Marsden
+tagline:          Web writer. Blogger. Copywriter.
+description:      My homepage.
+url:              http://taylormarsden.com
+
+author:
+  name:           Taylor Marsden
+  url:            https://twitter.com/tkmars
+
+paginate:         1
+
+# Links
 links:
-  - name:         Work
-    url:          /
-  - name:         Resume
-    url:          /TMars-WritingResume.pdf
+  - name:         Creative Content
+    url:          /creative-content
+  - name:         Copywriting
+    url:          /copywriting
+  - name:         Blogging
+    url:          /blogging
   - name:         Contact
     url:          /contact
-pygments:         true
-permalink:        pretty
-markdown:         rdiscount
-rdiscount:
-  extensions:     [smart]
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/tkmars/tkmars.github.io
