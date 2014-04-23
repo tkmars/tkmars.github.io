@@ -11,6 +11,6 @@ summary: This cosmetic company did a complete redesign of their site to better r
   <img alt="Velour Lashes 1" src="{{ site.url }}/images/VelourPage.png"/>
 </a>
 
-<a class="zoom" rel="gallery" href="{{ site.url }}/images/VelourPage2.png">
-  <img alt="Velour Lashes 2" src="{{ site.url }}/images/VelourPage2.png"/>
+<a class="zoom" rel="gallery" href="{{ site.url }}/images/Velourpage2.png">
+  <img alt="Velour Lashes 2" src="{{ site.url }}/images/Velourpage2.png"/>
 </a>
