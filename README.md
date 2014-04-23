@@ -4,9 +4,6 @@
 
 ## TODO
 
-* Increase font size on phone screen resolution
-* Update host
-
 ## This is the data for my homepage
 
 It is automatically transformed by [Jekyll](http://jekyllrb.com), a static site generator. The templates and styles were provided by [Poole](http://getpoole.com/), Jekyll's butler.
