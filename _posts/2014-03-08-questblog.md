@@ -3,7 +3,7 @@ layout: post
 title: QuestChat
 date: 2014-03-08
 categories: [blogging]
-thumbnail: questlogo.png
+thumbnail: rsz_qchatthumbnail.png
 summary: North America's busiest mobile chat line wanted to start a blog for their users that focused on dating and relationship advice for both men and women. 
 ---
 
