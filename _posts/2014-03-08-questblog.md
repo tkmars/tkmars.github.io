@@ -4,7 +4,7 @@ title: QuestChat
 date: 2014-03-08
 categories: [blogging]
 thumbnail: rsz_qchatthumbnail.png
-summary: North America's busiest mobile chat line wanted to start a blog for their users that focused on dating and relationship advice for both men and women. 
+summary: Dating and relationship advice for both men and women. 
 ---
 
 <a class="zoom" rel="gallery" href="{{ site.url }}/images/questchat - How to Know if He’s The One.png">
