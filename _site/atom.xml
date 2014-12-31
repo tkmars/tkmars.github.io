@@ -4,7 +4,7 @@
  <title>Taylor Marsden</title>
  <link href="http://taylormarsden.com/atom.xml" rel="self"/>
  <link href="http://taylormarsden.com/"/>
- <updated>2014-06-03T22:34:38-04:00</updated>
+ <updated>2014-12-31T13:39:52+07:00</updated>
  <id>http://taylormarsden.com</id>
  <author>
    <name>Taylor Marsden</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Unhaggle</title>
    <link href="http://taylormarsden.com/blogging/2014/06/03/Unhaggle/"/>
-   <updated>2014-06-03T00:00:00-04:00</updated>
+   <updated>2014-06-03T00:00:00+07:00</updated>
    <id>http://taylormarsden.com/blogging/2014/06/03/Unhaggle</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/Unhaggle-FriendsBlog.png&quot;&gt;
   &lt;img class=&quot;center&quot; alt=&quot;Unhaggle 1&quot; src=&quot;http://taylormarsden.com/images/Unhaggle-FriendsBlog.png&quot;/&gt;
@@ -28,9 +28,20 @@
  </entry>
  
  <entry>
+   <title>Lavalife</title>
+   <link href="http://taylormarsden.com/blogging/2014/03/15/Lavalife/"/>
+   <updated>2014-03-15T00:00:00+07:00</updated>
+   <id>http://taylormarsden.com/blogging/2014/03/15/Lavalife</id>
+   <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/theonioncopy.png&quot;&gt;
+  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/theonioncopy.png&quot;/&gt;
+&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>QuestChat</title>
    <link href="http://taylormarsden.com/blogging/2014/03/08/questblog/"/>
-   <updated>2014-03-08T00:00:00-05:00</updated>
+   <updated>2014-03-08T00:00:00+07:00</updated>
    <id>http://taylormarsden.com/blogging/2014/03/08/questblog</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/questchat - How to Know if He’s The One.png&quot;&gt;
   &lt;img alt=&quot;QuestChat 1&quot; src=&quot;http://taylormarsden.com/images/questchat - How to Know if He’s The One.png&quot;/&gt;
@@ -49,7 +60,7 @@
  <entry>
    <title>Taylored</title>
    <link href="http://taylormarsden.com/blogging/2014/03/08/Taylored/"/>
-   <updated>2014-03-08T00:00:00-05:00</updated>
+   <updated>2014-03-08T00:00:00+07:00</updated>
    <id>http://taylormarsden.com/blogging/2014/03/08/Taylored</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/tayloredblog.png&quot;&gt;
   &lt;img alt=&quot;Taylored 1&quot; src=&quot;http://taylormarsden.com/images/tayloredblog.png&quot;/&gt;
@@ -64,7 +75,7 @@
  <entry>
    <title>Velour Lashes</title>
    <link href="http://taylormarsden.com/creative-content/2013/12/20/VelourLashes/"/>
-   <updated>2013-12-20T00:00:00-05:00</updated>
+   <updated>2013-12-20T00:00:00+07:00</updated>
    <id>http://taylormarsden.com/creative-content/2013/12/20/VelourLashes</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/VelourPage.png&quot;&gt;
   &lt;img alt=&quot;Velour Lashes 1&quot; src=&quot;http://taylormarsden.com/images/VelourPage.png&quot;/&gt;
@@ -79,7 +90,7 @@
  <entry>
    <title>Canadian Breast Cancer Foundation</title>
    <link href="http://taylormarsden.com/creative-content/2013/10/01/Canadian_Breast_Cancer_Foundation/"/>
-   <updated>2013-10-01T00:00:00-04:00</updated>
+   <updated>2013-10-01T00:00:00+07:00</updated>
    <id>http://taylormarsden.com/creative-content/2013/10/01/Canadian_Breast_Cancer_Foundation</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/CBC awareness.jpg&quot;&gt;
   &lt;img alt=&quot;Canadian Breast Cancer Foundation 1&quot; src=&quot;http://taylormarsden.com/images/CBC awareness.jpg&quot;/&gt;
@@ -94,7 +105,7 @@
  <entry>
    <title>Bakersville</title>
    <link href="http://taylormarsden.com/creative-content/2013/03/25/Bakersville/"/>
-   <updated>2013-03-25T00:00:00-04:00</updated>
+   <updated>2013-03-25T00:00:00+07:00</updated>
    <id>http://taylormarsden.com/creative-content/2013/03/25/Bakersville</id>
    <content type="html">&lt;p&gt;&lt;img alt=&quot;Bakersville 1&quot; src=&quot;http://taylormarsden.com/images/bakersville.jpg&quot;/&gt;&lt;/p&gt;
 
@@ -106,9 +117,9 @@
  
  <entry>
    <title>Perez Hilton</title>
-   <link href="http://taylormarsden.com/copywriting/2013/03/12/Perez_Hilton/"/>
-   <updated>2013-03-12T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/copywriting/2013/03/12/Perez_Hilton</id>
+   <link href="http://taylormarsden.com/ad-copy/2013/03/12/Perez_Hilton/"/>
+   <updated>2013-03-12T00:00:00+07:00</updated>
+   <id>http://taylormarsden.com/ad-copy/2013/03/12/Perez_Hilton</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/laser hair free weekend.png&quot;&gt;
   &lt;img alt=&quot;Laser Hair Free Weekend&quot; src=&quot;http://taylormarsden.com/images/laser hair free weekend.png&quot;/&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -118,7 +129,7 @@
  <entry>
    <title>CHANGE Lingerie</title>
    <link href="http://taylormarsden.com/creative-content/2012/12/20/change_lingerie/"/>
-   <updated>2012-12-20T00:00:00-05:00</updated>
+   <updated>2012-12-20T00:00:00+07:00</updated>
    <id>http://taylormarsden.com/creative-content/2012/12/20/change_lingerie</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/change lingerie.jpg&quot;&gt;
   &lt;img alt=&quot;Change Lingerie 1&quot; src=&quot;http://taylormarsden.com/images/change lingerie.jpg&quot;/&gt;
@@ -132,9 +143,9 @@
  
  <entry>
    <title>The Onion</title>
-   <link href="http://taylormarsden.com/copywriting/2012/12/20/The_Onion/"/>
-   <updated>2012-12-20T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/copywriting/2012/12/20/The_Onion</id>
+   <link href="http://taylormarsden.com/ad-copy/2012/12/20/The_Onion/"/>
+   <updated>2012-12-20T00:00:00+07:00</updated>
+   <id>http://taylormarsden.com/ad-copy/2012/12/20/The_Onion</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/theonioncopy.png&quot;&gt;
   &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/theonioncopy.png&quot;/&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -143,9 +154,9 @@
  
  <entry>
    <title>Smartslips</title>
-   <link href="http://taylormarsden.com/copywriting/2012/12/15/smartslips/"/>
-   <updated>2012-12-15T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/copywriting/2012/12/15/smartslips</id>
+   <link href="http://taylormarsden.com/ad-copy/2012/12/15/smartslips/"/>
+   <updated>2012-12-15T00:00:00+07:00</updated>
+   <id>http://taylormarsden.com/ad-copy/2012/12/15/smartslips</id>
    <content type="html">&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/Smartslips.png&quot;&gt;
   &lt;img alt=&quot;Smartslips&quot; src=&quot;http://taylormarsden.com/images/Smartslips.png&quot;/&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -154,9 +165,9 @@
  
  <entry>
    <title>Toronto Fashion Week</title>
-   <link href="http://taylormarsden.com/copywriting/2012/12/15/FashionWeek/"/>
-   <updated>2012-12-15T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/copywriting/2012/12/15/FashionWeek</id>
+   <link href="http://taylormarsden.com/ad-copy/2012/12/15/FashionWeek/"/>
+   <updated>2012-12-15T00:00:00+07:00</updated>
+   <id>http://taylormarsden.com/ad-copy/2012/12/15/FashionWeek</id>
    <content type="html">&lt;iframe src=&quot;//player.vimeo.com/video/41037214?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=5b9da4&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 </content>
  </entry>

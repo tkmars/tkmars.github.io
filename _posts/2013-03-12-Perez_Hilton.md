@@ -2,7 +2,7 @@
 layout: post
 title: Perez Hilton
 date: 2013-03-12
-categories: [copywriting]
+categories: [ad-copy]
 thumbnail: perez_hilton-thumbnail.png
 summary: Page takeover of gigantic gossip site PerezHilton.com that publicized TeamBuy.ca's national laser hair removal weekend.  
 ---

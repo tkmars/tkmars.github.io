@@ -21,8 +21,8 @@ paginate:         1
 links:
   - name:         Creative Content
     url:          /creative-content
-  - name:         Copywriting
-    url:          /copywriting
+  - name:         Ad Copy
+    url:          /adcopy
   - name:         Blogging
     url:          /blogging
   - name:         Contact
