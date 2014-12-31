@@ -3,7 +3,7 @@ layout: post
 title: QuestChat
 date: 2014-03-08
 categories: [blogging]
-thumbnail: rsz_qchatthumbnail.png
+thumbnail: questchat_newlogo.jpg
 summary: Dating and relationship advice for both men and women. 
 ---
 
