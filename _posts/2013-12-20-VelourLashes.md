@@ -4,7 +4,7 @@ title: Velour Lashes
 date: 2013-12-20
 categories: [creative-content]
 thumbnail: velourlasheslogo.png
-summary: This cosmetic company did a complete redesign of their site to better reflect the state of their brand. In collaboration with the founder, fresh copy was created for all site pages.
+summary: A complete redesign of this site was created to better reflect the state of their growing beauty brand. In collaboration with the co-founders, fresh copy was created for all web pages and a new tone and voice was established.
 ---
 
 <a class="zoom" rel="gallery" href="{{ site.url }}/images/VelourPage.png">
