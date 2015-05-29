@@ -154,9 +154,7 @@ div.container.intro {
 
 }
 
-div.service.list {
-  display: block;
-  margin-top: 50px;  
-  list-style-type: none;
-
+.introduction {
+  font-family: 'Amatic SC', serif;
 }
+
