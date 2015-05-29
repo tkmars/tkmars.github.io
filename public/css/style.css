@@ -146,6 +146,8 @@ img.center {
 
 div.container.intro {
     display: block;
-    float: right;
+    padding-left: 10rem;
+    margin-left: 50px;
+
 
 }
