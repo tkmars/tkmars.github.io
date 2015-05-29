@@ -143,3 +143,9 @@ img.center {
   font-size: 2.5rem;
 
 }
+
+div.container.intro {
+    display: block;
+    float: right;
+
+}
