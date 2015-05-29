@@ -137,3 +137,9 @@ img.center {
   margin-right: auto;
 }
 
+.intro-title {
+  font-family: 'Amatic SC', serif;
+  font-weight: 700;
+  font-size: 4.5rem;
+
+}
