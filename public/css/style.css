@@ -154,8 +154,7 @@ div.container.intro {
 
 div.service.list {
   display: block;
-  padding-left: 10rem;
-  margin-left: 50px;
-
+  margin-top: 50px;  
+  list-style-type: none;
 
 }
