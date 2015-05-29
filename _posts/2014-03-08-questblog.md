@@ -4,7 +4,7 @@ title: QuestChat
 date: 2014-03-08
 categories: [blogging]
 thumbnail: questchat_newlogo.jpg
-summary: Dating and relationship advice for both men and women. 
+summary: North America’s busiest mobile chat line for over 1 million singles since 1988. 
 ---
 
 <a class="zoom" rel="gallery" href="{{ site.url }}/images/questchat - How to Know if He’s The One.png">
