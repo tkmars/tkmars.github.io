@@ -4,7 +4,6 @@ title: Bakersville
 date: 2013-03-25
 categories: [creative-content]
 thumbnail: bakersvillelogo.png
-summary: A moderately successful bakery in Mississauga looking to increase sales through an online daily deal - who doesn't love a good cupcake?
 ---
 <p>A small bakery in Mississauga looking to increase sales through an online daily deal - who doesn't love a good cupcake?</p>
 
