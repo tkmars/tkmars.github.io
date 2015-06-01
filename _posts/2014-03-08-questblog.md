@@ -4,8 +4,8 @@ title: QuestChat
 date: 2014-03-08
 categories: [blogging]
 thumbnail: questchat_newlogo.jpg
-summary: North America’s busiest mobile chat line for over 1 million singles since 1988. 
 ---
+<p>North America’s busiest mobile chat line for over 1 million singles since 1988.</p> 
 
 <a class="zoom" rel="gallery" href="{{ site.url }}/images/questchat - How to Know if He’s The One.png">
   <img alt="QuestChat 1" src="{{ site.url }}/images/questchat - How to Know if He’s The One.png"/>
