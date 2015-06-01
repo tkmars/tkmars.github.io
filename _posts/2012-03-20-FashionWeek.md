@@ -5,7 +5,7 @@ date: 2012-12-15
 categories: [ad-copy]
 thumbnail: fashionweeklogo.png
 ---
-<h1>Toronto Fashion Week</h1>
+<h2>Toronto Fashion Week</h2>
 
 <p>Promo video shown outside the doors of Toronto Fashion Week 2012. Directed and edited by Johnny Loh</p>
 
