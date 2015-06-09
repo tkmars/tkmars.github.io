@@ -10,7 +10,7 @@ thumbnail: KayokokoLogo.png
 
 
 <a class="zoom" rel="gallery" href="{{ site.url }}/images/Kayokoko_Blog1.png">
-  <img alt="Kayokoko 1" src="{{ site.url }}/images/Kayokoko_Blog1.png"/>
+  <img alt="Kayokoko 1" src="{{ site.url }}/images/Kayokoko_Blog1.png" align="middle"/>
 </a>
 
 <a class="zoom" rel="gallery" href="{{ site.url }}/images/Kayokoko_Blog2.png">
