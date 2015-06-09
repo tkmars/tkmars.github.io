@@ -6,7 +6,7 @@ categories: [blogging]
 thumbnail: KayokokoLogo.png
 ---
 
-<p>Kayokoko Swimwear specializes in unique and fashionable swimwear, offering a wide variety of designs for all body types!</p>
+<p>Offering a wide variety of designs for all body types, Kayokoko Swimwear specializes in fashionable swimwear and apparel!</p>
 
 
 <a class="zoom" rel="gallery" href="{{ site.url }}/images/Kayokoko_Blog.png">
