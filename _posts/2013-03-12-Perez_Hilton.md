@@ -6,7 +6,7 @@ categories: [ad-copy]
 thumbnail: perezhilton_logo.png
 ---
 
-<p>Page takeover of gigantic gossip site PerezHilton.com that publicized TeamBuy.ca's national laser hair removal weekend.</p>  
+<p>A page takeover publicizing TeamBuy's National Laser Hair Removal Weekend on PerezHilton.com.</p>  
 
 <a class="zoom" href="{{ site.url }}/images/laser hair free weekend.png">
   <img alt="Laser Hair Free Weekend" src="{{ site.url }}/images/laser hair free weekend.png"/>
