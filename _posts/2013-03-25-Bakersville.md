@@ -2,7 +2,7 @@
 layout: post
 title: Bakersville
 date: 2013-03-25
-categories: [creative-content]
+categories: [ad-copy]
 thumbnail: bakersvillelogo.png
 ---
 <p>An SMB in Mississauga looking to increase sales through an online daily deal - who doesn't love a good cupcake?</p>
