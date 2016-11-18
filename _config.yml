@@ -19,8 +19,8 @@ paginate:         1
 
 # Links
 links:
-  - name:         Creative Content
-    url:          /creative-content
+  - name:         Work
+    url:          /Work
   - name:         Ad Copy
     url:          /adcopy
   - name:         Blogging
