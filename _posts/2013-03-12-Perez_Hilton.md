@@ -2,7 +2,7 @@
 layout: post
 title: Perez Hilton
 date: 2013-03-12
-categories: [ad-copy]
+categories: [Work]
 thumbnail: perezhilton_logo.png
 ---
 

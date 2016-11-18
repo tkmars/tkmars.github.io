@@ -2,7 +2,7 @@
 layout: post
 title: QuestChat
 date: 2014-03-08
-categories: [blogging]
+categories: [Work]
 thumbnail: questchat_newlogo.jpg
 ---
 <p>North America’s busiest mobile chat line for over 1 million singles since 1988.</p> 

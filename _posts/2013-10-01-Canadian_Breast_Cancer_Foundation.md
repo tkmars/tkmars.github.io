@@ -2,7 +2,7 @@
 layout: post
 title: Canadian Breast Cancer Foundation
 date: 2013-10-01
-categories: [creative-content]
+categories: [Work]
 thumbnail: cbcf-logo.png
 ---
 <p>Encouraging TeamBuy members to donate during Breast Cancer Awareness month in October of 2013.</p>
