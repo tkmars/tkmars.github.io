@@ -4,7 +4,7 @@
  <title>Taylor Marsden</title>
  <link href="http://taylormarsden.com/atom.xml" rel="self"/>
  <link href="http://taylormarsden.com/"/>
- <updated>2016-11-17T19:53:48-05:00</updated>
+ <updated>2016-11-18T15:08:13-05:00</updated>
  <id>http://taylormarsden.com</id>
  <author>
    <name>Taylor Marsden</name>
@@ -14,58 +14,47 @@
  
  <entry>
    <title>ShippingTree</title>
-   <link href="http://taylormarsden.com/creative-content/2015/10/26/ShippingTree/"/>
+   <link href="http://taylormarsden.com/work/2015/10/26/ShippingTree/"/>
    <updated>2015-10-26T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/creative-content/2015/10/26/ShippingTree</id>
-   <content type="html">&lt;p&gt;A California-based logistics company with one main goal: smart, simple, and efficient order fulfillment for all.&lt;/p&gt;  
+   <id>http://taylormarsden.com/work/2015/10/26/ShippingTree</id>
+   <content type="html">&lt;p&gt;A California-based logistics company with one main goal: smart, simple, and efficient order fulfillment for all.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/ShippingTree3.png&quot;&gt;
+  &lt;img class=&quot;center&quot; alt=&quot;ShippingTree&quot; src=&quot;http://taylormarsden.com/images/ShippingTree3.png&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://shippingtree.co/pdf/Benefits_of_Free_Shipping.pdf&quot;&gt;View More with ShippingTree&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Canupy</title>
-   <link href="http://taylormarsden.com/blogging/2015/10/01/Canupy/"/>
+   <link href="http://taylormarsden.com/work/2015/10/01/Canupy/"/>
    <updated>2015-10-01T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/blogging/2015/10/01/Canupy</id>
-   <content type="html">&lt;p&gt;Canupy is a content agency that designs creative campaigns to grow e-commerce businesses.&lt;/p&gt;  
+   <id>http://taylormarsden.com/work/2015/10/01/Canupy</id>
+   <content type="html">&lt;p&gt;Canupy is a content agency that designs effective campaigns to grow e-commerce businesses.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/Unhaggle-Post.jpeg&quot;&gt;
-  &lt;img class=&quot;center&quot; alt=&quot;Unhaggle 1&quot; src=&quot;http://taylormarsden.com/images/Unhaggle-Post.jpeg&quot;/&gt;
+  &lt;img class=&quot;center&quot; alt=&quot;Unhaggle 1&quot; src=&quot;http://taylormarsden.com/images/Unhaggle-Post.jpeg&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://canupy.com/blog/&quot;&gt;View More Posts with Canupy&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Kayokoko Swimwear</title>
-   <link href="http://taylormarsden.com/blogging/2015/06/09/KayokokoSwim/"/>
-   <updated>2015-06-09T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/blogging/2015/06/09/KayokokoSwim</id>
-   <content type="html">&lt;p&gt;Offering a wide variety of designs for all body types, Kayokoko Swimwear specializes in fashionable swimwear and apparel!&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/Kayokoko_Blog1.png&quot;&gt;
-  &lt;img alt=&quot;Kayokoko 1&quot; src=&quot;http://taylormarsden.com/images/Kayokoko_Blog1.png&quot; align=&quot;middle&quot;/&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/Kayokoko_Blog2.png&quot;&gt;
-  &lt;img alt=&quot;Kayokoko 2&quot; src=&quot;http://taylormarsden.com/images/Kayokoko_Blog2.png&quot;/&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://canupy.com/blog/?author=5761e6e12994ca9fff257fc1&quot;&gt;View More Work with Canupy&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Fleek'd</title>
-   <link href="http://taylormarsden.com/blogging/2015/03/25/Fleek'd/"/>
+   <link href="http://taylormarsden.com/work/2015/03/25/Fleek'd/"/>
    <updated>2015-03-25T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/blogging/2015/03/25/Fleek'd</id>
+   <id>http://taylormarsden.com/work/2015/03/25/Fleek'd</id>
    <content type="html">&lt;p&gt;Lifestyle site aimed at millenials - articles on travel, life, food, and pop culture!&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/fleedk&#39;dblog.jpg&quot;&gt;
-  &lt;img alt=&quot;Fleekd 1&quot; src=&quot;http://taylormarsden.com/images/fleek&#39;dblog.jpg&quot;/&gt;
+  &lt;img alt=&quot;Fleekd 1&quot; src=&quot;http://taylormarsden.com/images/fleek&#39;dblog.jpg&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/fleedk&#39;dblog.jpg&quot;&gt;
-  &lt;img alt=&quot;Fleekd 2&quot; src=&quot;http://taylormarsden.com/images/fleek&#39;d-cleaneat.jpg&quot;/&gt;
+  &lt;img alt=&quot;Fleekd 2&quot; src=&quot;http://taylormarsden.com/images/fleek&#39;d-cleaneat.jpg&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://fleekd.com/author/taylor-marsden/&quot;&gt;View More Posts with Fleek&#39;d&lt;/a&gt;&lt;/p&gt;
@@ -74,34 +63,34 @@
  
  <entry>
    <title>PrepShop</title>
-   <link href="http://taylormarsden.com/creative-content/2015/02/04/PrepShop/"/>
+   <link href="http://taylormarsden.com/work/2015/02/04/PrepShop/"/>
    <updated>2015-02-04T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/creative-content/2015/02/04/PrepShop</id>
+   <id>http://taylormarsden.com/work/2015/02/04/PrepShop</id>
    <content type="html">&lt;p&gt;Worked on voice and all web page copy for this health and wellness focused SMB.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/PrepShop-Pg1.png&quot;&gt;
-  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/PrepShop-Pg1.png&quot;/&gt;
+  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/PrepShop-Pg1.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/PrepShop-Pg3.png&quot;&gt;
-  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/PrepShop-Pg3.png&quot;/&gt;
+  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/PrepShop-Pg3.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/PrepShop-Pg2.png&quot;&gt;
-  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/PrepShop-Pg2.png&quot;/&gt;
+  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/PrepShop-Pg2.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Unhaggle</title>
-   <link href="http://taylormarsden.com/blogging/2014/06/03/Unhaggle/"/>
+   <link href="http://taylormarsden.com/work/2014/06/03/Unhaggle/"/>
    <updated>2014-06-03T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/blogging/2014/06/03/Unhaggle</id>
-   <content type="html">&lt;p&gt;Unhaggle is Canada&#39;s leading automotive pricing resource that helps thousands of consumers find great new car deals.&lt;/p&gt;  
+   <id>http://taylormarsden.com/work/2014/06/03/Unhaggle</id>
+   <content type="html">&lt;p&gt;Unhaggle is Canada&#39;s leading automotive pricing resource that helps thousands of consumers find great new car deals.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/Unhaggle-Post.jpeg&quot;&gt;
-  &lt;img class=&quot;center&quot; alt=&quot;Unhaggle 1&quot; src=&quot;http://taylormarsden.com/images/Unhaggle-Post.jpeg&quot;/&gt;
+  &lt;img class=&quot;center&quot; alt=&quot;Unhaggle 1&quot; src=&quot;http://taylormarsden.com/images/Unhaggle-Post.jpeg&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://blog.unhaggle.com/author/taylor/&quot;&gt;View More Posts with Unhaggle&lt;/a&gt;&lt;/p&gt;
@@ -110,151 +99,123 @@
  
  <entry>
    <title>Lavalife</title>
-   <link href="http://taylormarsden.com/blogging/2014/03/15/Lavalife/"/>
+   <link href="http://taylormarsden.com/work/2014/03/15/Lavalife/"/>
    <updated>2014-03-15T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/blogging/2014/03/15/Lavalife</id>
-   <content type="html">&lt;p&gt;Lavalife has been creating online dating success stories for over 25 years.&lt;/p&gt; 
+   <id>http://taylormarsden.com/work/2014/03/15/Lavalife</id>
+   <content type="html">&lt;p&gt;Lavalife has been creating online dating success stories for over 25 years.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/lavalifeblog.png&quot;&gt;
-  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/lavalifeblog.png&quot;/&gt;
+  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/lavalifeblog.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>QuestChat</title>
-   <link href="http://taylormarsden.com/blogging/2014/03/08/questblog/"/>
+   <link href="http://taylormarsden.com/work/2014/03/08/questblog/"/>
    <updated>2014-03-08T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/blogging/2014/03/08/questblog</id>
-   <content type="html">&lt;p&gt;North America’s busiest mobile chat line for over 1 million singles since 1988.&lt;/p&gt; 
+   <id>http://taylormarsden.com/work/2014/03/08/questblog</id>
+   <content type="html">&lt;p&gt;North America’s busiest mobile chat line for over 1 million singles since 1988.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/questchat - How to Know if He’s The One.png&quot;&gt;
-  &lt;img alt=&quot;QuestChat 1&quot; src=&quot;http://taylormarsden.com/images/questchat - How to Know if He’s The One.png&quot;/&gt;
+  &lt;img alt=&quot;QuestChat 1&quot; src=&quot;http://taylormarsden.com/images/questchat - How to Know if He’s The One.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/questchat - Is an Open Relationship for Me.png&quot;&gt;
-  &lt;img alt=&quot;QuestChat 2&quot; src=&quot;http://taylormarsden.com/images/questchat - Is an Open Relationship for Me.png&quot;/&gt;
+  &lt;img alt=&quot;QuestChat 2&quot; src=&quot;http://taylormarsden.com/images/questchat - Is an Open Relationship for Me.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/questchat - 5 Cheap Date Ideas That Don&#39;t Seem Cheap.png&quot;&gt;
-  &lt;img alt=&quot;QuestChat 3&quot; src=&quot;http://taylormarsden.com/images/questchat - 5 Cheap Date Ideas That Don&#39;t Seem Cheap.png&quot;/&gt;
+  &lt;img alt=&quot;QuestChat 3&quot; src=&quot;http://taylormarsden.com/images/questchat - 5 Cheap Date Ideas That Don&#39;t Seem Cheap.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Velour Lashes</title>
-   <link href="http://taylormarsden.com/creative-content/2013/12/20/VelourLashes/"/>
+   <link href="http://taylormarsden.com/work/2013/12/20/VelourLashes/"/>
    <updated>2013-12-20T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/creative-content/2013/12/20/VelourLashes</id>
+   <id>http://taylormarsden.com/work/2013/12/20/VelourLashes</id>
    <content type="html">&lt;p&gt;A complete redesign of this site was created to better reflect the state of their growing beauty brand. In collaboration with the co-founders, fresh copy was created for all web pages and a new tone and voice was established.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/VelourPage.png&quot;&gt;
-  &lt;img alt=&quot;Velour Lashes 1&quot; src=&quot;http://taylormarsden.com/images/VelourPage.png&quot;/&gt;
+  &lt;img alt=&quot;Velour Lashes 1&quot; src=&quot;http://taylormarsden.com/images/VelourPage.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; rel=&quot;gallery&quot; href=&quot;http://taylormarsden.com/images/Velourpage2.png&quot;&gt;
-  &lt;img alt=&quot;Velour Lashes 2&quot; src=&quot;http://taylormarsden.com/images/Velourpage2.png&quot;/&gt;
+  &lt;img alt=&quot;Velour Lashes 2&quot; src=&quot;http://taylormarsden.com/images/Velourpage2.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
  <entry>
    <title>Canadian Breast Cancer Foundation</title>
-   <link href="http://taylormarsden.com/creative-content/2013/10/01/Canadian_Breast_Cancer_Foundation/"/>
+   <link href="http://taylormarsden.com/work/2013/10/01/Canadian_Breast_Cancer_Foundation/"/>
    <updated>2013-10-01T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/creative-content/2013/10/01/Canadian_Breast_Cancer_Foundation</id>
+   <id>http://taylormarsden.com/work/2013/10/01/Canadian_Breast_Cancer_Foundation</id>
    <content type="html">&lt;p&gt;Encouraging TeamBuy members to donate during Breast Cancer Awareness month in October of 2013.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/CBC awareness.jpg&quot;&gt;
-  &lt;img alt=&quot;Canadian Breast Cancer Foundation 1&quot; src=&quot;http://taylormarsden.com/images/CBC awareness.jpg&quot;/&gt;
+  &lt;img alt=&quot;Canadian Breast Cancer Foundation 1&quot; src=&quot;http://taylormarsden.com/images/CBC awareness.jpg&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/CBCFcopy.png&quot;&gt;
-  &lt;img alt=&quot;Canadian Breast Cancer Foundation 2&quot; src=&quot;http://taylormarsden.com/images/CBCFcopy.png&quot;/&gt;
-&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Bakersville</title>
-   <link href="http://taylormarsden.com/ad-copy/2013/03/25/Bakersville/"/>
-   <updated>2013-03-25T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/ad-copy/2013/03/25/Bakersville</id>
-   <content type="html">&lt;p&gt;An SMB in Mississauga looking to increase sales through an online daily deal - who doesn&#39;t love a good cupcake?&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;Bakersville 1&quot; src=&quot;http://taylormarsden.com/images/bakersville.jpg&quot;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/bakersvillecopy.png&quot;&gt;
-  &lt;img alt=&quot;Bakersville 2&quot; src=&quot;http://taylormarsden.com/images/bakersvillecopy.png&quot;/&gt;
+  &lt;img alt=&quot;Canadian Breast Cancer Foundation 2&quot; src=&quot;http://taylormarsden.com/images/CBCFcopy.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Perez Hilton</title>
-   <link href="http://taylormarsden.com/ad-copy/2013/03/12/Perez_Hilton/"/>
+   <link href="http://taylormarsden.com/work/2013/03/12/Perez_Hilton/"/>
    <updated>2013-03-12T00:00:00-04:00</updated>
-   <id>http://taylormarsden.com/ad-copy/2013/03/12/Perez_Hilton</id>
-   <content type="html">&lt;p&gt;A page takeover publicizing TeamBuy&#39;s National Laser Hair Removal Weekend on PerezHilton.com.&lt;/p&gt;  
+   <id>http://taylormarsden.com/work/2013/03/12/Perez_Hilton</id>
+   <content type="html">&lt;p&gt;A page takeover publicizing TeamBuy&#39;s National Laser Hair Removal Weekend on PerezHilton.com.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/laser hair free weekend.png&quot;&gt;
-  &lt;img alt=&quot;Laser Hair Free Weekend&quot; src=&quot;http://taylormarsden.com/images/laser hair free weekend.png&quot;/&gt;
-&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>CHANGE Lingerie</title>
-   <link href="http://taylormarsden.com/creative-content/2012/12/20/change_lingerie/"/>
-   <updated>2012-12-20T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/creative-content/2012/12/20/change_lingerie</id>
-   <content type="html">&lt;p&gt;Client wanted to introduce their brand to a wider audience by offering a generous credit towards their lingerie.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/change lingerie.jpg&quot;&gt;
-  &lt;img alt=&quot;Change Lingerie 1&quot; src=&quot;http://taylormarsden.com/images/change lingerie.jpg&quot;/&gt;
+  &lt;img alt=&quot;Laser Hair Free Weekend&quot; src=&quot;http://taylormarsden.com/images/laser hair free weekend.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/changecopy.png&quot;&gt;
-  &lt;img alt=&quot;Change Lingerie 2&quot; src=&quot;http://taylormarsden.com/images/changecopy.png&quot;/&gt;
-&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Onion</title>
-   <link href="http://taylormarsden.com/ad-copy/2012/12/20/The_Onion/"/>
+   <link href="http://taylormarsden.com/work/2012/12/20/The_Onion/"/>
    <updated>2012-12-20T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/ad-copy/2012/12/20/The_Onion</id>
+   <id>http://taylormarsden.com/work/2012/12/20/The_Onion</id>
    <content type="html">&lt;p&gt;A fun TeamBuy.ca page takeover of the satirical news site. Fun fact - daily deal hunters click through when you tempt them with images of burgers!&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/theonioncopy.png&quot;&gt;
-  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/theonioncopy.png&quot;/&gt;
+  &lt;img alt=&quot;The Onion&quot; src=&quot;http://taylormarsden.com/images/theonioncopy.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
  <entry>
    <title>Smartslips</title>
-   <link href="http://taylormarsden.com/ad-copy/2012/12/15/smartslips/"/>
+   <link href="http://taylormarsden.com/work/2012/12/15/smartslips/"/>
    <updated>2012-12-15T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/ad-copy/2012/12/15/smartslips</id>
+   <id>http://taylormarsden.com/work/2012/12/15/smartslips</id>
    <content type="html">&lt;p&gt;Created a promotional take-away card for this cloud-based receipt system that provides shoppers with paperless receipts for purchases.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;zoom&quot; href=&quot;http://taylormarsden.com/images/Smartslips.png&quot;&gt;
-  &lt;img alt=&quot;Smartslips&quot; src=&quot;http://taylormarsden.com/images/Smartslips.png&quot;/&gt;
+  &lt;img alt=&quot;Smartslips&quot; src=&quot;http://taylormarsden.com/images/Smartslips.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Toronto Fashion Week</title>
-   <link href="http://taylormarsden.com/ad-copy/2012/12/15/FashionWeek/"/>
+   <link href="http://taylormarsden.com/work/2012/12/15/FashionWeek/"/>
    <updated>2012-12-15T00:00:00-05:00</updated>
-   <id>http://taylormarsden.com/ad-copy/2012/12/15/FashionWeek</id>
+   <id>http://taylormarsden.com/work/2012/12/15/FashionWeek</id>
    <content type="html">&lt;p&gt;Promo video shown outside the doors of Toronto Fashion Week 2012. Directed and edited by Johnny Loh.&lt;/p&gt;
 
-&lt;iframe src=&quot;//player.vimeo.com/video/41037214?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=5b9da4&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;iframe src=&quot;//player.vimeo.com/video/41037214?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=5b9da4&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 </content>
  </entry>
  
