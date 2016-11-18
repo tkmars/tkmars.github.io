@@ -7,8 +7,8 @@ thumbnail: ShippingTreeLogo.png
 ---
 <p>A California-based logistics company with one main goal: smart, simple, and efficient order fulfillment for all.</p>  
 
-<a class="zoom" rel="gallery" href="{{ site.url }}/images/ShippingTree1.jpeg">
-  <img class="center" alt="ShippingTree" src="{{ site.url }}/images/ShippingTree1.jpeg"/>
+<a class="zoom" rel="gallery" href="{{ site.url }}/images/ShippingTree1.png">
+  <img class="center" alt="ShippingTree" src="{{ site.url }}/images/ShippingTree1.png"/>
 </a>
 
-<p><a href="http://canupy.com/blog/?author=5761e6e12994ca9fff257fc1">View More with ShippingTree</a></p>
+<p><a href="http://shippingtree.co/pdf/Benefits_of_Free_Shipping.pdf">View More with ShippingTree</a></p>
