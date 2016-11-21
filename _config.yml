@@ -20,11 +20,7 @@ paginate:         1
 # Links
 links:
   - name:         Work
-    url:          /Work
-  - name:         Ad Copy
-    url:          /adcopy
-  - name:         Blogging
-    url:          /blogging
+    url:          /work
   - name:         Contact
     url:          /contact
 
